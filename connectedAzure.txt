@@ -1,0 +1,1 @@
+Server=tcp:connected-office.database.windows.net,1433;Initial Catalog=ConnectedOfflice;Persist Security Info=False;User ID=API_admin;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;

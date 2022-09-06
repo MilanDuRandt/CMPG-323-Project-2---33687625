@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-09-06T10:15:05.3780332Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-09-06T10:15:15.0015381Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "3a7bd6fb-be1e-4733-b001-32820feda0bc"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rgProject2"
+    }
+  }
+}
