@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7A511cbVNLf2MTaIRq5vcA1yHceXf578eD5qJLKQ4brEBw2eECCDRW2JN6jkzGm1ge1FuAjGzcJQtk3siqqrg==",
+  "dgSpecHash": "0/Bl1sg22wSPYECqe+RHDPoh/zT2QM1nqkpr/WirFY4SgwVsk+yR0HPthMARk0N0sZEkykoyfg0iror2Dca2Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MilanPC\\Desktop\\CMPG323\\Project 2\\VS\\ConnectedOffice\\ConnectedOffice\\ConnectedOffice.csproj",
+  "projectFilePath": "C:\\Users\\MilanPC\\Desktop\\M1\\CMPG-323-Project-2---33687625\\ConnectedOffice\\ConnectedOffice\\ConnectedOffice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MilanPC\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\MilanPC\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

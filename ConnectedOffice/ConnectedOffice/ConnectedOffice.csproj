@@ -4,7 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
      <GenerateRunTimeConfigurationFiles>True</GenerateRunTimeConfigurationFiles>
      <UserSecretsId>2b8721fa-81cb-4589-90ab-a54ea62e687d</UserSecretsId>
+     <ApplicationIcon />
+     <OutputType>Exe</OutputType>
+     <StartupObject />
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.28" />
