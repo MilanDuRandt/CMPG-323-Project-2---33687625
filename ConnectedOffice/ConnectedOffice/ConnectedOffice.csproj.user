@@ -11,6 +11,7 @@
     <WebStackScaffolding_DbContextTypeFullName>ConnectedOffice.Models.ConnectedOffliceContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\ConnectedOffice\Properties\PublishProfiles\ConnectedOfficeProject2 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
