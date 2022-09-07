@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ConnectedOffice.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ConnectedOffice.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class DevicesController : ControllerBase

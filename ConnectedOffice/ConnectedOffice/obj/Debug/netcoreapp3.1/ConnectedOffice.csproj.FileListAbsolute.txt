@@ -281,3 +281,4 @@ C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\Connec
 C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\ConnectedOffice\obj\Debug\netcoreapp3.1\ConnectedOffice.genruntimeconfig.cache
 C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\ConnectedOffice\obj\Debug\netcoreapp3.1\ConnectedOffice.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\ConnectedOffice\obj\Debug\netcoreapp3.1\ConnectedOffice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MilanPC\Desktop\M1\CMPG-323-Project-2---33687625\ConnectedOffice\ConnectedOffice\obj\Debug\netcoreapp3.1\ConnectedOffice.GeneratedMSBuildEditorConfig.editorconfig
