@@ -4,28 +4,28 @@ API use:
 When running the Program you'll need to create a profile in order to access the controllers to the database. You will then be given a token wheen logged in that need to be inputted with the indicated prefix.
 
 EndPoints/Controllers:
-+Devices
+-Devices
 	Get
 	Get with ID
 	Put
 	Post
 	Delete
-+Categories
+-Categories
 	Get
 	Get with ID
 	Put
 	Post
 	Delete
-+Zones
+-Zones
 	Get
 	Get with ID
 	Put
 	Post
 	Delete
-+Swagger was implemented.
-+JWI Authentication was implemented.
-+Regiter capabilities admin/normal
-+Login capabilities 
+-Swagger was implemented.
+-JWI Authentication was implemented.
+-Regiter capabilities admin/normal
+-Login capabilities 
 
 Refernces:
 Stackoverflow https://stackoverflow.com/questions/44483589/unable-to-resolve-service-for-type-microsoft-aspnetcore-identity-usermanager-w Date of access: 06 Sep. 2022
